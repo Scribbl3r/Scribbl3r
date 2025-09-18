@@ -61,6 +61,6 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
 ---
 
 ## 📫 Contact
-- [LinkedIn](#https://www.linkedin.com/in/gustave-le-roux/)  
+- [LinkedIn](https://www.linkedin.com/in/gustave-le-roux/)  
 - [Email](mailto:lerouxgustave3@gmail.com)
 
