@@ -47,7 +47,8 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
 ### 🔧 Projets annexes
 - Serveur NAS domestique avec TrueNAS  
 - Scripts Nmap automatisés en Python ([lien](https://gist.github.com/Scribbl3r/e243777a11c7b7d21c68382521cd2f22))  
-- Site Beecrew pour gestion d’associations (React, NestJS, Prisma, MySQL)  
+- Site Beecrew pour gestion d’associations (React, NestJS, Prisma, MySQL)
+  <p><img src="https://img.shields.io/badge/Stack_:-React,_Nest.Js_Prisma_MySQL,_Verce-blue"></p> 
 
 ---
 
