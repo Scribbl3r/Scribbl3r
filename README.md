@@ -28,9 +28,9 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
 
 ## 📂 Projets principaux
 
-### [Nearby](https://nearby-finder2-osvxjipn1-scribbl3rs-projects.vercel.app/)  
+### [Nearby]()  
 📌 **Application pour trouver des éléments à proximité d’une adresse**
-<p><img src="https://img.shields.io/badge/Stack_:-React,_API_Rest,_Formik_&_Yup,_Zustand,_Verce-blue"></p>
+<p><img src="https://img.shields.io/badge/Stack_:-React,_API_Rest,_Formik_&_Yup,_Zustand,-blue"></p>
 
 ---
 
