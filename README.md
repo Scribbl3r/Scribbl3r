@@ -43,7 +43,7 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
   <p><img src="https://img.shields.io/badge/Stack_:-python-blue"></p>
 - [Scan Network](https://gist.github.com/Scribbl3r/e243777a11c7b7d21c68382521cd2f22) : nmap → fichier texte avec analyses du scan
   <p><img src="https://img.shields.io/badge/Stack_:-python-blue"></p>
-- [Dépendances](https://gist.github.com/Scribbl3r/e243777a11c7b7d21c68382521cd2f22) : vérification des dépendances installées dans un projet nodejs
+- [Dépendances](https://github.com/Scribbl3r/dep-checker) : vérification des dépendances installées dans un projet nodejs
   <p><img src="https://img.shields.io/badge/Stack_:-js-blue"></p>
 - [Automation](https://github.com/Scribbl3r/automation_n8n-job_hunting) : automatisation de la recherche d'offres d'emploi (via France Travail)
   <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
