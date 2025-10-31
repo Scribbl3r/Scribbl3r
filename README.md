@@ -1,4 +1,7 @@
 # Gustave Le Roux
+# My Project
+
+🇫🇷 [Français](./README.fr.md) | 🇬🇧 [English](./README.md)
 
 `Développeur Fullstack Node.Js/React`
 
