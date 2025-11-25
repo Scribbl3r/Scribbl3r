@@ -50,6 +50,8 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
   <p><img src="https://img.shields.io/badge/Stack_:-js-blue"></p>
 - [Automation](https://github.com/Scribbl3r/automation-n8n-job_hunting) : automatisation de la recherche d'offres d'emploi (via France Travail)
   <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
+- [Automation](https://github.com/Scribbl3r/n8n-manuscrit_check-automation)) : automatisation de la gestion de manuscrits en local (maison d'édition)
+  <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
 
 ---
 
