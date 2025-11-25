@@ -48,7 +48,7 @@ J’aime concevoir des interfaces accessibles, mettre en place des solutions bac
   <p><img src="https://img.shields.io/badge/Stack_:-python-blue"></p>
 - [Dépendances](https://github.com/Scribbl3r/dep-checker) : vérification des dépendances installées dans un projet nodejs
   <p><img src="https://img.shields.io/badge/Stack_:-js-blue"></p>
-- [Automation](https://github.com/Scribbl3r/automation_n8n-job_hunting) : automatisation de la recherche d'offres d'emploi (via France Travail)
+- [Automation](https://github.com/Scribbl3r/automation-n8n-job_hunting) : automatisation de la recherche d'offres d'emploi (via France Travail)
   <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
 
 ---
