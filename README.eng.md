@@ -47,6 +47,8 @@ I enjoy designing accessible interfaces, building efficient back-end solutions, 
   <p><img src="https://img.shields.io/badge/Stack_:-js-blue"></p>
 - [Automation](https://github.com/Scribbl3r/automation_n8n-job_hunting) : automates job search (via France Travail API)
   <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
+- [Automation](https://github.com/Scribbl3r/n8n-manuscrit_check-automation) : automates pdf sorting for publishing
+  <p><img src="https://img.shields.io/badge/Stack_:-js_and_n8n-blue"></p>
 
 ---
 
